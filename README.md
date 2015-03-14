@@ -1,5 +1,7 @@
 # systemd-219 for CentOS7
 
+** systemd-219-0.el7.3 has been fixed, so we don't need this repository. **
+
 * base SRPM is https://copr.fedoraproject.org/coprs/lnykryn/systemd/
 * patch http://lists.freedesktop.org/archives/systemd-devel/2015-February/028603.html
 
